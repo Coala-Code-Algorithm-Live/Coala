@@ -43,7 +43,7 @@ https://fern-marble-d91.notion.site/SSAFY-3ad03986590b4b738aed7c54107734bb?pvs=4
 
 ## 화면 구성
 ### 메인페이지
-<img src="/uploads/8b2fb9b163b8d30e77f6250e1e6d4b42/추천.gif">
+![추천](https://github.com/Code-Algorithm-Live/Code-Algorithm-Live/assets/76770475/f9db868d-fafc-4d8e-818b-daff2aa92034)
 
 ### 도움 요청 대기열
 <img src="/uploads/e02d9066cbe2d00154a942a6d59613ca/Animation.gif">
