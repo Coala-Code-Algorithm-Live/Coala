@@ -1,13 +1,14 @@
-# README
-# SpringBoot, Next.js
-
 # Coala (Code Algorithm Live)
-
-<img src="/uploads/bf6bb134c19afad7191fba3846283501/image.png">
 
 ## 프로젝트 정보
 
 Coala는 SSAFY 2학기 공통 프로젝트 기간(1/8 ~ 2/16) 동안 개발한 프로젝트입니다.
+
+![추천](https://github.com/Code-Algorithm-Live/Code-Algorithm-Live/assets/76770475/f9db868d-fafc-4d8e-818b-daff2aa92034)
+
+
+![Untitled](https://github.com/Code-Algorithm-Live/Code-Algorithm-Live/assets/76770475/4ba729d6-2466-4315-8ae3-77e826a70fbd)
+
 
 ## 팀 소개
 
@@ -19,7 +20,7 @@ Coala는 SSAFY 2학기 공통 프로젝트 기간(1/8 ~ 2/16) 동안 개발한 �
 
   * 차우열: 문제 추천, 코드 편집기 컴파일, 페어프로그래밍
 
-  * 이재진: 싸탈
+  * 이재진: 회원, 도움 매칭 대기열
 
 * 프론트
 
@@ -46,16 +47,16 @@ https://fern-marble-d91.notion.site/SSAFY-3ad03986590b4b738aed7c54107734bb?pvs=4
 ![추천](https://github.com/Code-Algorithm-Live/Code-Algorithm-Live/assets/76770475/f9db868d-fafc-4d8e-818b-daff2aa92034)
 
 ### 도움 요청 대기열
-<img src="/uploads/e02d9066cbe2d00154a942a6d59613ca/Animation.gif">
+![도움 요청하기](https://github.com/Code-Algorithm-Live/Code-Algorithm-Live/assets/76770475/c25cdfdc-5abc-4d98-8af0-ed59bdb4462f)
 
 ### 채팅, 페어프로그래밍
-<img src="/uploads/18046f8889192ed8091e3d0d2c45d941/채팅.gif">
+![채팅](https://github.com/Code-Algorithm-Live/Code-Algorithm-Live/assets/76770475/ae15ad53-2ca8-4cb6-9d71-f4c51417bd66)
 
 ### 코드 편집
-<img src="/uploads/e77ba08afb95f1b5acd24ee7426aae3e/페어프로그래밍.gif">
+![페어프로그래밍](https://github.com/Code-Algorithm-Live/Code-Algorithm-Live/assets/76770475/4aa69781-1760-4f0e-814c-cf43f3f933dd)
 
 ### 히스토리 보기
-<img src="/uploads/3e9db8cf2adac5af0c936756d49d44c5/히스토리보기.gif">
+![히스토리보기](https://github.com/Code-Algorithm-Live/Code-Algorithm-Live/assets/76770475/aca78480-118a-44d0-bbcf-8812c2864183)
 
 ## 주요 기능
 
@@ -127,4 +128,4 @@ https://fern-marble-d91.notion.site/SSAFY-3ad03986590b4b738aed7c54107734bb?pvs=4
 
 ## 아키텍처
 
-![image](/uploads/7644fadbacdc701e32ec45173d7bdf7e/image__6_.png)
+![image](https://github.com/Code-Algorithm-Live/Code-Algorithm-Live/assets/76770475/ea3f746e-7e3a-464b-a29a-1c4ef58c188f)
